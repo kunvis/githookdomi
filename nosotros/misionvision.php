@@ -13,9 +13,9 @@
             <a href="../index.php"> <img src="../imagenes/domilogo.png" id="logo" width="450px"></a>
         </header>
         <section class="nav">
-            <button id="ingreso"><a href="../ingreso/ingreso.php">Iniciar Sesión</a></button><br>
+            <a href="../ingreso/ingreso.php"><button id="ingreso">Iniciar Sesión</button></a><br>
             <br>
-            <button id="registra"><a href="../registrate/registro.php">Registrarme</a></button>
+            <a href="../registrate/registro.php"><button id="registra">Registrarme</button></a>
         </section>
     </center>
     <br><br>
