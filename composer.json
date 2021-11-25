@@ -1,0 +1,8 @@
+{
+  "name": "gitdeploy ",
+  "homepage": "http://domifood1.clubcoderos.com/",
+  "repositories": [
+      { "type": "git", "url": "https://github.com/kunvis/gitdeploy.git" }
+  ],
+  "require-all": true
+}
