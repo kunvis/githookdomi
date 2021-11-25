@@ -124,7 +124,7 @@
             <br>
             <center>
                 <button>
-                    <a href="../../inicio.php">Regresar</a>
+                    <a href="../../index.php">Regresar</a>
                 </button>
             </center>
         <!-- fin del insert -->
